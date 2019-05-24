@@ -22,5 +22,7 @@ Now you can customize it by either adding customization lines yourself, or by vi
 
 If you have any questions on how to customize, /r/csshelp might be better suited than me!
 
+Adding this test line for Discord Testing.
+
 
 ##[Click here to download](https://github.com/Axel--/Naut-for-reddit/archive/master.zip)
